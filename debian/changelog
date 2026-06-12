@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-expandvars (0.12.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only reupload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Colin Watson <cjwatson@debian.org>  Sun, 21 Jul 2024 18:11:37 +0100
+
+python-expandvars (0.12.0-1) unstable; urgency=medium
+
+  * Initial release (closes: #1074211).
+
+ -- Colin Watson <cjwatson@debian.org>  Mon, 01 Jul 2024 13:34:30 +0100
